@@ -1,5 +1,5 @@
 {
-  "name": "angular-starter",
+  "name": "chatapp",
   "private": true,
   "scripts": {
     "serve": "nodemon server.js",
